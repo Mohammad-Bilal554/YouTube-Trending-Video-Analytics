@@ -46,7 +46,7 @@ Performed using **Python** and **Excel**:
 
 
 
-## 📈 Visualizations in Tableau
+## Visualizations in Tableau
 
 ### Dashboard Includes:
 1. **Top Categories by Views**
